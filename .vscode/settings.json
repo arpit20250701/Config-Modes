@@ -1,0 +1,9 @@
+{
+  // GitHub Copilot Configuration
+  "github.copilot.enable": {
+    "*": true,
+  },
+  "chat.modeFilesLocations": {
+    ".github/prompts": true,
+  }
+}
