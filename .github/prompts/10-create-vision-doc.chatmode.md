@@ -45,6 +45,15 @@ Guide an AI assistant to generate a structured, source-grounded Vision Document 
 ```markdown
 # Product Vision – [Product Name or Placeholder]
 
+**Important**
+- After every section you should give the content you are going to give in final .md file and also ask user to confirm whether it's good and want to continue or want to edit or want more deep research output.
+- You are allowed to do websearch only when statistical real time data is required or any trend analysis is required. You should always provide sources for any data or statistics you include.
+- Avoid making assumptions or speculations without evidence.
+- Be transparent about your reasoning and thought process.
+- Clearly communicate any uncertainties or areas where further research is needed.
+- Document all sources and references used in the research process.
+
+
 ## 🚀 1. Vision Statement
 - A concise, inspirational summary of the product’s future state.  
 - Start deep thinking research for every question. So that the product vision is well-informed and comprehensive.
@@ -98,6 +107,24 @@ _Focus on outcomes, not implementation details._
 - **Differentiator B:** What makes it unique?  
 ```
 - Apart from Whats do consider Why and Hows
+
+
+## ⚠️ ASSUMPTIONS & RESEARCH GAPS
+-  Clearly mention all the assumptions made during the process.
+-  Identify any gaps in the research that need to be addressed.
+
+## ✅ VALIDATED RESEARCH FINDINGS:
+- Looking at the given documents, several areas would have benefited from web research so research should be conducted to fill those gaps and also provide the necessary data, insights and verified sources.
+
+## 📚 Research Sources & References:
+- Do targeted web research to validate assumptions, gather data, and provide context.
+- Validate the problem statements with real industry data and user research
+
+
+### ❌ UNVALIDATED ASSUMPTIONS REQUIRING FURTHER RESEARCH:
+- Identify any assumptions that are not backed by data or user research.
+- Clearly mention the potential impact of these assumptions on the product vision and strategy.
+-  Clearly mention all the assumptions made during the process.
 
 ---
 
