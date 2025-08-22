@@ -1,25 +1,9 @@
 {
   "servers": {
-    "md-converter": {
-				"command": "uv",
-				"args": [
-					"--directory",
-					"/Users/arpit/Practice/Agent/Config modes/Config-Modes/mcp",
-					"run",
-					"src/mcp_server.py"
-				]
-			},
-    "excel-mcp": {
-				"command": "uv",
-				"args": [
-					"--directory",
-					"/Users/arpit/Practice/Agent/Config modes/Config-Modes/mcp",
-					"run",
-					"src/mcp_excel.py"
-				]
-			},
-            "excel": {
-         		"url": "http://localhost:8000/sse"
-      		}
+
+	"atlassian-mcp-server": {
+      "url": "https://mcp.atlassian.com/v1/sse",
+      "type": "http"
+    }
   }
 }
